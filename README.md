@@ -26,3 +26,21 @@ This project is built using Python as well as the TensorFlow and Keras libraries
 Computer scientists do amazing complex work that impacts nearly every aspect of modern life. They design software application or develop new technologies, use their analytical and technical skills to achieve amazing goals not only in the computer science relm, but medicine and buisness as well. The knowledge gained in algorithms, data structures, and programming languages can create new developments in AI that will in result in breakthrus in medicine and science. The ability to use AI to detect cancer at such a early stage that any type can potentially treated or cured. Using AI in a buisness to discover unknown patterns and help the buisness grow, all while streamlineing the process and making the organization more efficient. Essentially, computer scientists are the architects of the modern digital world that we all benefit from.
 
 ## How do I approach a problem as a computer scientist?
+First I establish the reason behind the problem and research on ways to better the situation. Once a solid plan has been found, I break the process down into smaller tasks, and make alterations as the process unfolds. For the Pirate Game project, the goal is clear, make the intellegent agent find the goal. Then I designed a Deep Q-learning network and implemented the solution. Once the test was ran successfully, I made the neccessary adjustments and came to a final product. This is similar to an Aglie approach. Plan (which was provided for me), Design (decision on using a DQN), Develop (create the nessesary code), Test (multiple tests were run to determine the final product), Deploy, and Review. Although the game was never deployed. 
+
+## What are my ethical responsibilities to the end user and the organization?
+My ethical responsibilites to the end user and the organization coincide with the General Data Protection Regulation (GDPR) law, which are as follows:
+
+**Lawfulness, fairness and transparency** - Processing must be lawful, fair, and transparent to the data subject.\
+
+**Purpose limitation** - You must process data for the legitimate purposes specified explicitly to the data subject when you collected it.\
+
+**Data minimization** - You should collect and process only as much data as absolutely necessary for the purposes specified.\
+
+**Accuracy** - You must keep personal data accurate and up to date.\
+
+**Storage limitation** - You may only store personally identifying data for as long as necessary for the specified purpose.\
+
+**Integrity and confidentiality** - Processing must be done in such a way as to ensure appropriate security, integrity, and confidentiality (e.g. by using encryption).\
+
+**Accountability** - The data controller is responsible for being able to demonstrate GDPR compliance with all of these principles.
